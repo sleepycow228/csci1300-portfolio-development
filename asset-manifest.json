@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/csci1300-portfolio-development/static/css/main.d72b8ac6.css",
+    "main.js": "/csci1300-portfolio-development/static/js/main.c2211009.js",
+    "static/media/background.png": "/csci1300-portfolio-development/static/media/background.067ba0dafc57b28d708a.png",
+    "index.html": "/csci1300-portfolio-development/index.html",
+    "main.d72b8ac6.css.map": "/csci1300-portfolio-development/static/css/main.d72b8ac6.css.map",
+    "main.c2211009.js.map": "/csci1300-portfolio-development/static/js/main.c2211009.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d72b8ac6.css",
+    "static/js/main.c2211009.js"
+  ]
+}
